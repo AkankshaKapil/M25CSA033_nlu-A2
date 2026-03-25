@@ -1,0 +1,102 @@
+[
+  {
+    "label": "CBOW_d50_w2",
+    "arch": "CBOW",
+    "dim": 50,
+    "window": 2,
+    "k": 5,
+    "lr": 0.01,
+    "epochs": 10,
+    "final_avg_loss": 2.102329969406128
+  },
+  {
+    "label": "CBOW_d100_w4",
+    "arch": "CBOW",
+    "dim": 100,
+    "window": 4,
+    "k": 5,
+    "lr": 0.01,
+    "epochs": 10,
+    "final_avg_loss": 2.1465559005737305
+  },
+  {
+    "label": "SG_d50_w2",
+    "arch": "SG",
+    "dim": 50,
+    "window": 2,
+    "k": 5,
+    "lr": 0.01,
+    "epochs": 10,
+    "final_avg_loss": 1.6273260116577148
+  },
+  {
+    "label": "SG_d100_w4",
+    "arch": "SG",
+    "dim": 100,
+    "window": 4,
+    "k": 5,
+    "lr": 0.01,
+    "epochs": 10,
+    "final_avg_loss": 1.8524880409240723
+  },
+  {
+    "label": "CBOW_d100_w4_k5",
+    "arch": "CBOW",
+    "dim": 100,
+    "window": 4,
+    "k": 5,
+    "lr": 0.01,
+    "epochs": 10,
+    "final_avg_loss": 2.1459779739379883
+  },
+  {
+    "label": "CBOW_d100_w4_k10",
+    "arch": "CBOW",
+    "dim": 100,
+    "window": 4,
+    "k": 10,
+    "lr": 0.01,
+    "epochs": 10,
+    "final_avg_loss": 2.592758893966675
+  },
+  {
+    "label": "CBOW_d100_w4_k15",
+    "arch": "CBOW",
+    "dim": 100,
+    "window": 4,
+    "k": 15,
+    "lr": 0.01,
+    "epochs": 10,
+    "final_avg_loss": 2.8663330078125
+  },
+  {
+    "label": "SG_d100_w4_k5",
+    "arch": "SG",
+    "dim": 100,
+    "window": 4,
+    "k": 5,
+    "lr": 0.01,
+    "epochs": 10,
+    "final_avg_loss": 1.8273869752883911
+  },
+  {
+    "label": "SG_d100_w4_k10",
+    "arch": "SG",
+    "dim": 100,
+    "window": 4,
+    "k": 10,
+    "lr": 0.01,
+    "epochs": 10,
+    "final_avg_loss": 2.355902910232544
+  },
+  {
+    "label": "SG_d100_w4_k15",
+    "arch": "SG",
+    "dim": 100,
+    "window": 4,
+    "k": 15,
+    "lr": 0.01,
+    "epochs": 10,
+    "final_avg_loss": 2.752748966217041
+  }
+]
