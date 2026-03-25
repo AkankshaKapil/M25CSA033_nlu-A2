@@ -1,0 +1,23 @@
+{
+  "VanillaRNN": {
+    "total_generated": 200,
+    "novelty_rate": 92.5,
+    "diversity": 99.0,
+    "unique_count": 198,
+    "novel_count": 185
+  },
+  "BLSTM": {
+    "total_generated": 200,
+    "novelty_rate": 100.0,
+    "diversity": 92.0,
+    "unique_count": 184,
+    "novel_count": 200
+  },
+  "AttentionRNN": {
+    "total_generated": 200,
+    "novelty_rate": 100.0,
+    "diversity": 49.5,
+    "unique_count": 99,
+    "novel_count": 200
+  }
+}
