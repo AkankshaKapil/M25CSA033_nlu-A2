@@ -60,10 +60,10 @@ This repository contains solutions for both **Problem 1 (Word2Vec)** and **Probl
 #installing the requirements.txt
 pip install -r requirements.txt
 # Problem 1 (from scratch)
-python problem1.py
+python Problem1.py
 
 # Problem 1 (Gensim version)
-python problem1_using_lib.py
+python Problem1_UsingLib.py
 
 # Problem 2
-python problem2.py
+python Problem2.py
